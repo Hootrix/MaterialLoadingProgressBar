@@ -1,4 +1,4 @@
-[Screenshot](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)  
+[![Screenshot]](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)  
 
 [![Android Weekly](https://img.shields.io/badge/android--weekly-143-blue.svg)](http://androidweekly.net/issues/issue-143)  [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-%20MaterialLoadingProgressBar-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1525)
 # MaterialLoadingProgressBar
